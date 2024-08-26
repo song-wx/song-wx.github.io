@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I'm Weixi Song(宋维晞 in Chinese) from China. I'm currently a first-year Ph.D. student jointly hosted by [Westlake University](https://en.westlake.edu.cn/) and [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). Prior to that, I recieved my B.S Degree from School of Mathematics and Statistics, [Wuhan University](https://en.whu.edu.cn/) in June 2024.
+Hi there, I'm Weixi Song(宋维晞 in Chinese) from China. I'm currently a first-year Ph.D. student jointly hosted by [Westlake University](https://en.westlake.edu.cn/) and [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). Prior to that, I recieved my B.S Degree from School of Mathematics and Statistics, [Wuhan University](https://en.whu.edu.cn/) in June 2024 and I conducted research at School of Computer Science advised by [Prof. Zuchao Li](https://zcli-charlie.github.io/) and [Prof. Lefei Zhang](https://cs.whu.edu.cn/info/1019/2889.htm)  
 
 My research interest includes Multi-modal Large Language Models, Emodied Intelligence and Robot Learning.
 
@@ -38,9 +38,9 @@ My research interest includes Multi-modal Large Language Models, Emodied Intelli
 </div>
 </div>-->
 
-- `ICML 2024` <span style="color:red">(Spotlight)</span> [Sparse is Enough in Fine-tuning Pre-trained Large Language Models](https://openreview.net/pdf?id=10hu2D3hAg)<br>**Weixi Song**, Zuchao Li, Lefei Zhang, Hai Zhao, Bo Du
-- `IEEE Visualization 2024` [A Comparative Study of Neural Surface Reconstruction for Scientific Visualization](https://arxiv.org/pdf/2407.20868)<br>Siyuan Yao, **Weixi Song**, Chaoli Wang
-- `MMM 2023` [QIVISE: a quantum-inspired interactive video search engine in VBS2023](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_52)<br>**Weixi Song**, Jiangshan He, Xinghan Li, Shiwei Feng, Chao Liang
+- **`ICML 2024`** <span style="color:red">(Spotlight)</span> [Sparse is Enough in Fine-tuning Pre-trained Large Language Models](https://openreview.net/pdf?id=10hu2D3hAg)<br>**Weixi Song**, Zuchao Li, Lefei Zhang, Hai Zhao, Bo Du
+- **`IEEE Visualization 2024`** [A Comparative Study of Neural Surface Reconstruction for Scientific Visualization](https://arxiv.org/pdf/2407.20868)<br>Siyuan Yao, **Weixi Song**, Chaoli Wang
+- **`MMM 2023`** [QIVISE: a quantum-inspired interactive video search engine in VBS2023](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_52)<br>**Weixi Song**, Jiangshan He, Xinghan Li, Shiwei Feng, Chao Liang
 
 # 🎖 Honors and Awards
 - *2023.01* [Best Newcomer in 2023 Video Browser Showdown](https://videobrowsershowdown.org/hall-of-fame/) 
