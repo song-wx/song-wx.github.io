@@ -17,30 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi there, I'm Weixi Song(宋维晞 in Chinese) from China. I'm currently a first-year Ph.D. student jointly hosted by [Westlake University](https://en.westlake.edu.cn/) and [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). Prior to that, I recieved my B.S Degree from School of Mathematics and Statistics, [Wuhan University](https://en.whu.edu.cn/) in June 2024.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Multi-modal Large Language Models, Emodied Intelligence and Robot Learning.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08*: &nbsp;🎉🎉 Start my Ph.D. journey at Westlake University and Zhejiang University. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 Spotlight</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Sparse is Enough in Fine-tuning Pre-trained Large Language Models](https://openreview.net/pdf?id=10hu2D3hAg)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Weixi Song**, Zuchao Li, Lefei Zhang, Hai Zhao, Bo Du
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div>-->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- 'ICML 2024' <span style="color:red">(Spotlight)</span> [Sparse is Enough in Fine-tuning Pre-trained Large Language Models](https://openreview.net/pdf?id=10hu2D3hAg) **Weixi Song**, Zuchao Li, Lefei Zhang, Hai Zhao, Bo Du
+- `IEEE Visualization 2024` [A Comparative Study of Neural Surface Reconstruction for Scientific Visualization](https://arxiv.org/pdf/2407.20868) Siyuan Yao, **Weixi Song**, Chaoli Wang
+- 'MMM 2023' [QIVISE: a quantum-inspired interactive video search engine in VBS2023](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_52) **Weixi Song**, Jiangshan He, Xinghan Li, Shiwei Feng, Chao Liang
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
