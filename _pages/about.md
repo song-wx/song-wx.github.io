@@ -31,7 +31,6 @@ My research interest includes Multi-modal Large Language Models, Emodied Intelli
 <div class='paper-box-text' markdown="1">
 
 [Sparse is Enough in Fine-tuning Pre-trained Large Language Models](https://openreview.net/pdf?id=10hu2D3hAg)
-
 **Weixi Song**, Zuchao Li, Lefei Zhang, Hai Zhao, Bo Du
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -39,21 +38,22 @@ My research interest includes Multi-modal Large Language Models, Emodied Intelli
 </div>
 </div>-->
 
-- 'ICML 2024' <span style="color:red">(Spotlight)</span> [Sparse is Enough in Fine-tuning Pre-trained Large Language Models](https://openreview.net/pdf?id=10hu2D3hAg) **Weixi Song**, Zuchao Li, Lefei Zhang, Hai Zhao, Bo Du
-- `IEEE Visualization 2024` [A Comparative Study of Neural Surface Reconstruction for Scientific Visualization](https://arxiv.org/pdf/2407.20868) Siyuan Yao, **Weixi Song**, Chaoli Wang
-- 'MMM 2023' [QIVISE: a quantum-inspired interactive video search engine in VBS2023](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_52) **Weixi Song**, Jiangshan He, Xinghan Li, Shiwei Feng, Chao Liang
+- `ICML 2024` <span style="color:red">(Spotlight)</span> [Sparse is Enough in Fine-tuning Pre-trained Large Language Models](https://openreview.net/pdf?id=10hu2D3hAg)<br>**Weixi Song**, Zuchao Li, Lefei Zhang, Hai Zhao, Bo Du
+- `IEEE Visualization 2024` [A Comparative Study of Neural Surface Reconstruction for Scientific Visualization](https://arxiv.org/pdf/2407.20868)<br>Siyuan Yao, **Weixi Song**, Chaoli Wang
+- `MMM 2023` [QIVISE: a quantum-inspired interactive video search engine in VBS2023](https://link.springer.com/chapter/10.1007/978-3-031-27077-2_52)<br>**Weixi Song**, Jiangshan He, Xinghan Li, Shiwei Feng, Chao Liang
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.01* [Best Newcomer in 2023 Video Browser Showdown](https://videobrowsershowdown.org/hall-of-fame/) 
+- *2022.02* MCM/ICM Contest Finalist Award (Top 2%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2024.06*, Undergraduate, Applied Mathematics, Wuhan University 
+- *2024.08 - NOW*, Ph.D. student, Computer Science, Westlake University & Zhejiang University 
 
-# 💬 Invited Talks
+<!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.12 - 2024.06*, AI4Science Group, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), China.
+- *2023.06 - 2023.09*, [Chaoli Wang's Lab](https://sites.nd.edu/chaoli-wang/), University of Notre Dame, USA.
