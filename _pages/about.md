@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there, I'm Weixi Song(宋维晞 in Chinese) from China. I'm currently a first-year Ph.D. student jointly hosted by [Westlake University](https://en.westlake.edu.cn/) and [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). Prior to that, I recieved my B.S Degree from School of Mathematics and Statistics, [Wuhan University](https://en.whu.edu.cn/) in June 2024 and I conducted research at School of Computer Science advised by [Prof. Zuchao Li](https://zcli-charlie.github.io/) and [Prof. Lefei Zhang](https://cs.whu.edu.cn/info/1019/2889.htm).  
 
-My research interest includes Multi-modal Large Language Models, Embodied Intelligence.
+My research interest includes Multi-modal Large Language Models, Generalizable Reinforcement Learning, Embodied Intelligence.
 
 
 # 🔥 News
@@ -47,8 +47,8 @@ My research interest includes Multi-modal Large Language Models, Embodied Intell
 - *2022.02* MCM/ICM Contest Finalist Award (Top 2%)
 
 # 📖 Educations
+- *2024.08 - NOW*, Ph.D. student, Computer Science, Westlake University & Zhejiang University
 - *2020.09 - 2024.06*, Undergraduate, Applied Mathematics, Wuhan University 
-- *2024.08 - NOW*, Ph.D. student, Computer Science, Westlake University & Zhejiang University 
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
